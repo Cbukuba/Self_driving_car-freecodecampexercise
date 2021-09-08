@@ -6,7 +6,7 @@
 /*   By: cbukuba <chrisbukuba058@gmail.com>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/08 14:25:19 by cbukuba           #+#    #+#             */
-/*   Updated: 2021/09/08 22:03:06 by cbukuba          ###   ########.fr       */
+/*   Updated: 2021/09/08 22:04:40 by cbukuba          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,8 +50,8 @@ void	ft_print_comb(void)
 	}
 }
 
-int	main(void)
+/*int	main(void)
 {
 	ft_print_comb();
 	return (0);
-}
+}*/
